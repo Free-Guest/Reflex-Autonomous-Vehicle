@@ -1,2 +1,2 @@
-# Weight-Input-Motor-Controller
+# Reflex-Weight-Input-Motor-Controller
 Motor control board using weight sensor feedback
